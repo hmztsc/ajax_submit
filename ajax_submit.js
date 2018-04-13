@@ -4,7 +4,7 @@ What does it do ?
 Basic ajax form senders for all forms
 
 Author : Hamza TAŞCI - Full Stack Web Developer
-github.com/hmztsc
+https://github.com/hmztsc/ajax_submit
 
 */
 
